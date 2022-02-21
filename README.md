@@ -23,5 +23,6 @@ sequelize model:create --name pembayaran --attributes id_petugas:integer,nisn:in
 
 <br>
 <h2>Hasilnya berupa database sebagai berikut</h2>
+
 ![sequelizesp](https://user-images.githubusercontent.com/65702027/154905305-7767b220-56cb-4668-b6be-05c85c8612e3.PNG)
 
