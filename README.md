@@ -1,4 +1,4 @@
-# Sequelize-Spp-App
+# Sequelize SPP App
 Setting sequelize projek aplikasi spp
 
 <br>
