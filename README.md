@@ -1,6 +1,8 @@
 # Sequelize-Spp-App
 Setting sequelize projek aplikasi spp
 
+<br>
+
 <h2>Membuat Tabel & Relasi dengan SEQUELIZE pada folder migrations dengan ketik command </h2>
 
 
@@ -20,4 +22,4 @@ sequelize model:create --name spp --attributes angkatan:integer,tahun:integer,no
 sequelize model:create --name pembayaran --attributes id_petugas:integer,nisn:integer,tgl_bayar:date,bulan_spp:integer,tahun_spp:integer,id_spp:integer,jumlah_bayar:integer
 
 <br>
-<h2>Hasilnya adalah database sebagai berikut berikut</h2>
+<h2>Hasilnya berupa database sebagai berikut</h2>
